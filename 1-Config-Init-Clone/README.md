@@ -19,6 +19,7 @@ Começando um projeto no git: `git init`
 ## Adicione suas informaçoes ao git
 
 `git config --global user.name <string>`
+
 `git config --global user.email <string>`
 
 Exemplo:
