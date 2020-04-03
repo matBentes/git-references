@@ -27,7 +27,7 @@ Veja como seus arquivos foram adicionados a Staged Area:
 `git status`
 
 Commitando os arquivos ao repositorio local do Git
-`git commit -m: "MENSAGEM"
+`git commit -m: "MENSAGEM"`
 
 Veja que os arquivos estao trackeds pelo Git a partir de agora
 
