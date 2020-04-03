@@ -16,6 +16,16 @@ Existem **3 areas** no Git:
 
 Começando um projeto no git: `git init`
 
+## Adicione suas informaçoes ao git
+
+`git config --global user.name <string>`
+`git config --global user.email <string>`
+
+Exemplo:
+
+- `git config --global user.name "Mateus Bentes"
+- `git config --global user.email "randomEmail@gmail.com"`
+
 ## Adicionando um projeto ja existente
 
 Adicionando um repositorio remoto: `git remote add <branch> <URL>`
@@ -32,7 +42,7 @@ Exemplo:
 
 - git clone https://github.com/matBentes/git-references.git
 
-## Verificando o repositorio remoto:
+## Verificando o repositorio remoto
 
 Veja se voce ja possuir um repositorio remoto: `git remote -v`
 
