@@ -20,6 +20,10 @@ Começando um projeto no git: `git init`
 
 Adicionando um repositorio remoto: `git remote add <branch> <URL>`
 
+Exemplo:
+
+- `git remote add origin https://github.com/matBentes/git-references.git`
+
 ## Clonando um repositorio ja existente
 
 Clonando um repositorio: `git clone <URL>`
