@@ -24,7 +24,8 @@ Começando um projeto no git: `git init`
 
 Exemplo:
 
-- `git config --global user.name "Mateus Bentes"
+- `git config --global user.name "Mateus Bentes"`
+
 - `git config --global user.email "randomEmail@gmail.com"`
 
 ## Adicionando um projeto ja existente
