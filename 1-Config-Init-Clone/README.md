@@ -61,7 +61,7 @@ Verificando o status dos arquivos: `git status`
 
 ## Configurando o git no vscode
 
-Abrindo o git config com o vscode: `git config --global core.editor code`
+Abrindo o git config com o vscode: ` git config --global core.editor "code --wait"`
 
 ## Entendendo as configuracoes
 
